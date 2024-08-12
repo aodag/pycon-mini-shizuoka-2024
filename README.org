@@ -1,0 +1,5 @@
+#+DATE: 2024-08-31
+
+* pycon mini shizuoka
+
+- https://shizuoka.pycon.jp/2024
